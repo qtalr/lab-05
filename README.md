@@ -1,7 +1,6 @@
 # Lab 5: Collecting and documenting data
 
 <!-- 
-
 - [ ] Create dev container
 -->
 
@@ -10,12 +9,6 @@
 - Read/ annotate: [Recipe \#5](https://qtalr.github.io/qtalrkit/articles/recipe-5.html). You can refer back to this document to help you at any point during this lab activity.
 
 ## Objectives
-
-<!--  
-- Finding data sources
-- Data collection strategies
-- Data documentation
--->
 
 - Review using Git and Github to manage repositories
 - Learn to investigate data sources and plan data collection strategies
@@ -27,7 +20,7 @@
 
 In this lab, you will be using Git and Github to fork, clone, commit, and push changes to a repository. The repository you will select to use as the repository to fork to your own Github account can be one of the following:
 
-- [Lab 4 repository](https://github.com/qtalr/lab-4)
+- [Lab 5 repository](https://github.com/qtalr/lab-5)
 - [Minimal template](https://github.com/qtalr/project)
 - [Web-based project template](https://github.com/qtalr/project_web)
 - Other (consult your instructor)
@@ -64,7 +57,7 @@ In your acquisition process file,
 
 5. Confirm that your code runs without errors and that the data is collected and displayed as expected.
 
-5. Finally, commit and push your changes to your Github repository.
+6. Finally, commit and push your changes to your Github repository.
 
 ### Assessing your progress
 
