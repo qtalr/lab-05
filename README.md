@@ -1,6 +1,6 @@
-# Lab 5: Collecting and documenting data
+# Lab 05: Collecting and documenting data
 
-<!-- 
+<!--
 - [ ] Create dev container
 -->
 
@@ -31,11 +31,17 @@ If you are using an existing reproducible research project repository, open that
 
 Open a Quarto document in the process directory and name it accordingly (e.g., `1_acquire.qmd`, `data_collection.qmd`, *etc.*).
 
+The data you select to acquire can be through manual or programmatic download or through an API. If you do not have a resource in mind, you may select one of the following:
+
+- Switchboard Dialog Act Corpus (SWDA) [LDC97S62](https://catalog.ldc.upenn.edu/LDC97S62) see the 'Updates' section 09/2008 [free download link](https://catalog.ldc.upenn.edu/docs/LDC97S62/swb1_dialogact_annot.tar.gz).
+- Work(s) from the Project Gutenberg (via `gutenbergr` package)
+- Other (consult your instructor)
+
 ### Collecting data
 
 In your acquisition process file,
 
-1. add a section which provides a brief description of the data you are collecting. Include: 
+1. add a section which provides a brief description of the data you are collecting. Include:
 
   - the nature of the data
   - the source of the data
@@ -43,7 +49,7 @@ In your acquisition process file,
   - the format of the data
   - the license of the data
 
-2. add a section for the data collection process. In this section, you will document with code, code comments, and prose the process of collecting the data. This is where you will craft the code to collect the data. Feel free to use existing R packages and functions as you see fit. You may use any of the following strategies to collect the data: 
+2. add a section for the data collection process. In this section, you will document with code, code comments, and prose the process of collecting the data. This is where you will craft the code to collect the data. Feel free to use existing R packages and functions as you see fit. You may use any of the following strategies to collect the data:
 
   - Manually downloading data from a website
   - Programmatically downloading data from a website
@@ -63,11 +69,11 @@ In your acquisition process file,
 
 1. In your repository on Github, open an issue to provide feedback on your experience with this lab (Click on the 'Issues' tab and then click the 'New issue' button). Title the issue "Lab 5 feedback" and provide your feedback in the body of the issue.
 
-Some questions to consider: 
+Some questions to consider:
 
   - What did you learn?
   - What did you find most/ least challenging?
-  - What resources did you consult? 
+  - What resources did you consult?
     - Instructor? R or Quarto documentation, Websites (provide links)?
   - What more would you like to know about acquiring data?
     - Find potential resources you might consult to continue your learning. Provide links and a brief description of the resource.
