@@ -20,7 +20,7 @@
 
 In this lab, you will be using Git and Github to fork, clone, commit, and push changes to a repository. The repository you will select to use as the repository to fork to your own Github account can be one of the following:
 
-- [Lab 5 repository](https://github.com/qtalr/lab-5)
+- [Lab 05 repository](https://github.com/qtalr/lab-05)
 - [Minimal template](https://github.com/qtalr/project)
 - [Web-based project template](https://github.com/qtalr/project_web)
 - Other (consult your instructor)
@@ -67,7 +67,7 @@ In your acquisition process file,
 
 ### Assessing your progress
 
-1. In your repository on Github, open an issue to provide feedback on your experience with this lab (Click on the 'Issues' tab and then click the 'New issue' button). Title the issue "Lab 5 feedback" and provide your feedback in the body of the issue.
+1. In your repository on Github, open an issue to provide feedback on your experience with this lab (Click on the 'Issues' tab and then click the 'New issue' button). Title the issue "Lab 05 feedback" and provide your feedback in the body of the issue.
 
 Some questions to consider:
 
