@@ -63,7 +63,7 @@ In your acquisition process file,
 
 5. Confirm that your code runs without errors and that the data is collected and displayed as expected.
 
-6. Finally, commit and push your changes to your Github repository.
+6. Finally, commit and push your changes to your Github repository. *Make sure to include files or directories that you do not have permission to share in your `.gitignore` file.*
 
 ### Assessing your progress
 
