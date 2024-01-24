@@ -1,9 +1,5 @@
 # Lab 05: Collecting and documenting data
 
-<!--
-- [ ] Create dev container
--->
-
 ## Preparation
 
 - Read/ annotate: [Recipe \#5](https://qtalr.github.io/qtalrkit/articles/recipe-5.html). You can refer back to this document to help you at any point during this lab activity.
