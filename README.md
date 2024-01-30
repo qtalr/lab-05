@@ -1,4 +1,4 @@
-# Lab 05: Collecting and documenting data
+# Lab 05: Harvesting research data
 
 ## Preparation
 
