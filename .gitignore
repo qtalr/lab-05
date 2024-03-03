@@ -6,3 +6,4 @@
 *.Rproj
 _*
 cite-packages.R
+data/original/
